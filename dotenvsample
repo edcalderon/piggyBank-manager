@@ -1,0 +1,3 @@
+## Rename file dotenvsample -> .env
+# Node URL (ex) local is 'ws://localhost:7545'
+ETH_PROVIDER_URL = 'wss://rinkeby.infura.io/ws/v3/0c90cede2053432cac408091c5d57039'
